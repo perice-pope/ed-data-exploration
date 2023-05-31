@@ -1,0 +1,644 @@
+"siteInfo": {
+        "grants": {
+            "grant": {
+                "@id": "6d27da93-818c-4e03-b2ff-46e4637974b2",
+                "sites": {
+                    "site": [
+                        {
+                            "@id": "304c2ace-6201-4a69-95db-2ab4bb3ac9ce",
+                            "@hrsaAssignedNumber": "83210",
+                            "@bphcAssignedNumber": "BPS-H80-035793",
+                            "siteType": {
+                                "@code": "1",
+                                "@codeRef": "LU_SCP_SiteType"
+                            },
+                            "siteLocation": {
+                                "@code": "1",
+                                "@codeRef": "LU_SCP_SiteLocation"
+                            },
+                            "udsId": {},
+                            "legacyUDSId": {},
+                            "terminatedOnDate": {},
+                            "status": {
+                                "@code": "1",
+                                "@codeRef": "LU_SCP_Status"
+                            },
+                            "hasPendingApprovedChanges": "False",
+                            "isARRASite": "False",
+                            "npiNumber": {},
+                            "medicareBillingNumber": {},
+                            "name": "Health Ministries Clinic-Main St.",
+                            "addresses": {
+                                "address": {
+                                    "addressPurpose": {
+                                        "@code": "1",
+                                        "@codeRef": "LookupAddressPurpose"
+                                    },
+                                    "siteAddressCategory": {
+                                        "@code": "2",
+                                        "@codeRef": "LU_ESR_SiteAddressCategory"
+                                    },
+                                    "addressType": {
+                                        "@code": "2",
+                                        "@codeRef": "LookupAddressType"
+                                    },
+                                    "deliveryModeType": {
+                                        "@code": "1",
+                                        "@codeRef": "LookupDeliveryModeType"
+                                    },
+                                    "mailStopCode": {},
+                                    "internalRoutingInformation": {},
+                                    "streetNumber": {},
+                                    "streetAddress": "301 N Main St.",
+                                    "secondaryIdentifierType": {
+                                        "@code": "",
+                                        "@codeRef": "LookupSecondaryIdentifierType"
+                                    },
+                                    "secondaryIdentifierRange": {},
+                                    "urbanization": {},
+                                    "ruralRouteType": {
+                                        "@code": "",
+                                        "@codeRef": "LookupRuralRouteType"
+                                    },
+                                    "ruralRouteNumber": {},
+                                    "ruralRouteBoxNumber": {},
+                                    "postOfficeBoxNumber": {},
+                                    "city": "Newton",
+                                    "zipCode": "67114",
+                                    "zip4Code": "3400",
+                                    "congressionalDistrict": "04",
+                                    "county": "Harvey",
+                                    "countyFIPSCode": {},
+                                    "validationStatus": {
+                                        "@code": "3",
+                                        "@codeRef": "LookupValidationStatus"
+                                    },
+                                    "state": "KS",
+                                    "divisionLine": {},
+                                    "internationalAddress": {},
+                                    "province": {},
+                                    "postalCode": {},
+                                    "company": {},
+                                    "computedLongitude": "-97.345115",
+                                    "computedLatitude": "38.045268",
+                                    "GeoCodingLocatorName": {},
+                                    "nonStandardAddressLine": "301 N Main St."
+                                }
+                            }
+                        },
+                        {
+                            "@id": "e1681ca2-0887-446d-b15b-559235040e08",
+                            "@hrsaAssignedNumber": "44368",
+                            "@bphcAssignedNumber": "BPS-H80-020930",
+                            "siteType": {
+                                "@code": "3",
+                                "@codeRef": "LU_SCP_SiteType"
+                            },
+                            "siteLocation": {
+                                "@code": "1",
+                                "@codeRef": "LU_SCP_SiteLocation"
+                            },
+                            "udsId": {},
+                            "legacyUDSId": {},
+                            "terminatedOnDate": {},
+                            "status": {
+                                "@code": "1",
+                                "@codeRef": "LU_SCP_Status"
+                            },
+                            "hasPendingApprovedChanges": "False",
+                            "isARRASite": "False",
+                            "npiNumber": {},
+                            "medicareBillingNumber": "171872",
+                            "name": "Health Ministries Clinic",
+                            "addresses": {
+                                "address": {
+                                    "addressPurpose": {
+                                        "@code": "1",
+                                        "@codeRef": "LookupAddressPurpose"
+                                    },
+                                    "siteAddressCategory": {
+                                        "@code": "3",
+                                        "@codeRef": "LU_ESR_SiteAddressCategory"
+                                    },
+                                    "addressType": {
+                                        "@code": "2",
+                                        "@codeRef": "LookupAddressType"
+                                    },
+                                    "deliveryModeType": {
+                                        "@code": "1",
+                                        "@codeRef": "LookupDeliveryModeType"
+                                    },
+                                    "mailStopCode": {},
+                                    "internalRoutingInformation": {},
+                                    "streetNumber": {},
+                                    "streetAddress": "720 Medical Center Dr",
+                                    "secondaryIdentifierType": {
+                                        "@code": "",
+                                        "@codeRef": "LookupSecondaryIdentifierType"
+                                    },
+                                    "secondaryIdentifierRange": {},
+                                    "urbanization": {},
+                                    "ruralRouteType": {
+                                        "@code": "",
+                                        "@codeRef": "LookupRuralRouteType"
+                                    },
+                                    "ruralRouteNumber": {},
+                                    "ruralRouteBoxNumber": {},
+                                    "postOfficeBoxNumber": {},
+                                    "city": "Newton",
+                                    "zipCode": "67114",
+                                    "zip4Code": "8778",
+                                    "congressionalDistrict": "04",
+                                    "county": "Harvey",
+                                    "countyFIPSCode": {},
+                                    "validationStatus": {
+                                        "@code": "2",
+                                        "@codeRef": "LookupValidationStatus"
+                                    },
+                                    "state": "KS",
+                                    "divisionLine": {},
+                                    "internationalAddress": {},
+                                    "province": {},
+                                    "postalCode": {},
+                                    "company": {},
+                                    "computedLongitude": "0",
+                                    "computedLatitude": "0",
+                                    "GeoCodingLocatorName": {},
+                                    "nonStandardAddressLine": "720 Medical Center Dr"
+                                }
+                            }
+                        },
+                        {
+                            "@id": "5b4ab291-b44d-492a-ba46-5a4e658ef9c8",
+                            "@hrsaAssignedNumber": "80082",
+                            "@bphcAssignedNumber": "BPS-H80-033124",
+                            "siteType": {
+                                "@code": "2",
+                                "@codeRef": "LU_SCP_SiteType"
+                            },
+                            "siteLocation": {
+                                "@code": "5",
+                                "@codeRef": "LU_SCP_SiteLocation"
+                            },
+                            "udsId": {},
+                            "legacyUDSId": {},
+                            "terminatedOnDate": {},
+                            "status": {
+                                "@code": "1",
+                                "@codeRef": "LU_SCP_Status"
+                            },
+                            "hasPendingApprovedChanges": "False",
+                            "isARRASite": "False",
+                            "npiNumber": {},
+                            "medicareBillingNumber": {},
+                            "name": "Health Ministries Clinic: Mobile Unit",
+                            "addresses": {
+                                "address": {
+                                    "addressPurpose": {
+                                        "@code": "1",
+                                        "@codeRef": "LookupAddressPurpose"
+                                    },
+                                    "siteAddressCategory": {
+                                        "@code": "3",
+                                        "@codeRef": "LU_ESR_SiteAddressCategory"
+                                    },
+                                    "addressType": {
+                                        "@code": "2",
+                                        "@codeRef": "LookupAddressType"
+                                    },
+                                    "deliveryModeType": {
+                                        "@code": "1",
+                                        "@codeRef": "LookupDeliveryModeType"
+                                    },
+                                    "mailStopCode": {},
+                                    "internalRoutingInformation": {},
+                                    "streetNumber": {},
+                                    "streetAddress": "720 Medical Center Dr",
+                                    "secondaryIdentifierType": {
+                                        "@code": "",
+                                        "@codeRef": "LookupSecondaryIdentifierType"
+                                    },
+                                    "secondaryIdentifierRange": {},
+                                    "urbanization": {},
+                                    "ruralRouteType": {
+                                        "@code": "",
+                                        "@codeRef": "LookupRuralRouteType"
+                                    },
+                                    "ruralRouteNumber": {},
+                                    "ruralRouteBoxNumber": {},
+                                    "postOfficeBoxNumber": {},
+                                    "city": "Newton",
+                                    "zipCode": "67114",
+                                    "zip4Code": "8778",
+                                    "congressionalDistrict": "04",
+                                    "county": "Harvey",
+                                    "countyFIPSCode": {},
+                                    "validationStatus": {
+                                        "@code": "2",
+                                        "@codeRef": "LookupValidationStatus"
+                                    },
+                                    "state": "KS",
+                                    "divisionLine": {},
+                                    "internationalAddress": {},
+                                    "province": {},
+                                    "postalCode": {},
+                                    "company": {},
+                                    "computedLongitude": "0",
+                                    "computedLatitude": "0",
+                                    "GeoCodingLocatorName": {},
+                                    "nonStandardAddressLine": "720 Medical Center Dr"
+                                }
+                            }
+                        },
+                        {
+                            "@id": "aa59b290-8f72-48e3-9b76-98851fe87dc1",
+                            "@hrsaAssignedNumber": "31069",
+                            "@bphcAssignedNumber": "BPS-H80-015201",
+                            "siteType": {
+                                "@code": "2",
+                                "@codeRef": "LU_SCP_SiteType"
+                            },
+                            "siteLocation": {
+                                "@code": "1",
+                                "@codeRef": "LU_SCP_SiteLocation"
+                            },
+                            "udsId": {},
+                            "legacyUDSId": {},
+                            "terminatedOnDate": {},
+                            "status": {
+                                "@code": "1",
+                                "@codeRef": "LU_SCP_Status"
+                            },
+                            "hasPendingApprovedChanges": "False",
+                            "isARRASite": "False",
+                            "npiNumber": {},
+                            "medicareBillingNumber": "171859",
+                            "name": "Health Ministries Clinic-Halstead",
+                            "addresses": {
+                                "address": {
+                                    "addressPurpose": {
+                                        "@code": "1",
+                                        "@codeRef": "LookupAddressPurpose"
+                                    },
+                                    "siteAddressCategory": {
+                                        "@code": "3",
+                                        "@codeRef": "LU_ESR_SiteAddressCategory"
+                                    },
+                                    "addressType": {
+                                        "@code": "2",
+                                        "@codeRef": "LookupAddressType"
+                                    },
+                                    "deliveryModeType": {
+                                        "@code": "1",
+                                        "@codeRef": "LookupDeliveryModeType"
+                                    },
+                                    "mailStopCode": {},
+                                    "internalRoutingInformation": {},
+                                    "streetNumber": {},
+                                    "streetAddress": "126 Main St",
+                                    "secondaryIdentifierType": {
+                                        "@code": "",
+                                        "@codeRef": "LookupSecondaryIdentifierType"
+                                    },
+                                    "secondaryIdentifierRange": {},
+                                    "urbanization": {},
+                                    "ruralRouteType": {
+                                        "@code": "",
+                                        "@codeRef": "LookupRuralRouteType"
+                                    },
+                                    "ruralRouteNumber": {},
+                                    "ruralRouteBoxNumber": {},
+                                    "postOfficeBoxNumber": {},
+                                    "city": "Halstead",
+                                    "zipCode": "67056",
+                                    "zip4Code": "1708",
+                                    "congressionalDistrict": "04",
+                                    "county": "Harvey",
+                                    "countyFIPSCode": "79",
+                                    "validationStatus": {
+                                        "@code": "2",
+                                        "@codeRef": "LookupValidationStatus"
+                                    },
+                                    "state": "KS",
+                                    "divisionLine": {},
+                                    "internationalAddress": {},
+                                    "province": {},
+                                    "postalCode": {},
+                                    "company": {},
+                                    "computedLongitude": "0",
+                                    "computedLatitude": "0",
+                                    "GeoCodingLocatorName": {},
+                                    "nonStandardAddressLine": "126 Main St"
+                                }
+                            }
+                        },
+                        {
+                            "@id": "95900af7-0b9c-49b4-9830-9d747bd6f1ce",
+                            "@hrsaAssignedNumber": "61335",
+                            "@bphcAssignedNumber": "BPS-H80-031727",
+                            "siteType": {
+                                "@code": "1",
+                                "@codeRef": "LU_SCP_SiteType"
+                            },
+                            "siteLocation": {
+                                "@code": "1",
+                                "@codeRef": "LU_SCP_SiteLocation"
+                            },
+                            "udsId": {},
+                            "legacyUDSId": {},
+                            "terminatedOnDate": {},
+                            "status": {
+                                "@code": "1",
+                                "@codeRef": "LU_SCP_Status"
+                            },
+                            "hasPendingApprovedChanges": "False",
+                            "isARRASite": "False",
+                            "npiNumber": {},
+                            "medicareBillingNumber": {},
+                            "name": "Health Ministries Clinic",
+                            "addresses": {
+                                "address": {
+                                    "addressPurpose": {
+                                        "@code": "1",
+                                        "@codeRef": "LookupAddressPurpose"
+                                    },
+                                    "siteAddressCategory": {
+                                        "@code": "2",
+                                        "@codeRef": "LU_ESR_SiteAddressCategory"
+                                    },
+                                    "addressType": {
+                                        "@code": "2",
+                                        "@codeRef": "LookupAddressType"
+                                    },
+                                    "deliveryModeType": {
+                                        "@code": "1",
+                                        "@codeRef": "LookupDeliveryModeType"
+                                    },
+                                    "mailStopCode": {},
+                                    "internalRoutingInformation": {},
+                                    "streetNumber": {},
+                                    "streetAddress": "700 Medical Center Dr Ste 102",
+                                    "secondaryIdentifierType": {
+                                        "@code": "",
+                                        "@codeRef": "LookupSecondaryIdentifierType"
+                                    },
+                                    "secondaryIdentifierRange": {},
+                                    "urbanization": {},
+                                    "ruralRouteType": {
+                                        "@code": "",
+                                        "@codeRef": "LookupRuralRouteType"
+                                    },
+                                    "ruralRouteNumber": {},
+                                    "ruralRouteBoxNumber": {},
+                                    "postOfficeBoxNumber": {},
+                                    "city": "Newton",
+                                    "zipCode": "67114",
+                                    "zip4Code": "9014",
+                                    "congressionalDistrict": "04",
+                                    "county": "Harvey",
+                                    "countyFIPSCode": {},
+                                    "validationStatus": {
+                                        "@code": "2",
+                                        "@codeRef": "LookupValidationStatus"
+                                    },
+                                    "state": "KS",
+                                    "divisionLine": {},
+                                    "internationalAddress": {},
+                                    "province": {},
+                                    "postalCode": {},
+                                    "company": {},
+                                    "computedLongitude": "0",
+                                    "computedLatitude": "0",
+                                    "GeoCodingLocatorName": {},
+                                    "nonStandardAddressLine": {}
+                                }
+                            }
+                        },
+                        {
+                            "@id": "45b1f4e6-1cbc-4bac-a791-a4d590006404",
+                            "@hrsaAssignedNumber": "27495",
+                            "@bphcAssignedNumber": "BPS-H80-014466",
+                            "siteType": {
+                                "@code": "3",
+                                "@codeRef": "LU_SCP_SiteType"
+                            },
+                            "siteLocation": {
+                                "@code": "1",
+                                "@codeRef": "LU_SCP_SiteLocation"
+                            },
+                            "udsId": {},
+                            "legacyUDSId": {},
+                            "terminatedOnDate": {},
+                            "status": {
+                                "@code": "1",
+                                "@codeRef": "LU_SCP_Status"
+                            },
+                            "hasPendingApprovedChanges": "False",
+                            "isARRASite": "False",
+                            "npiNumber": {},
+                            "medicareBillingNumber": "181825",
+                            "name": "Health Ministries Clinic, Inc.",
+                            "addresses": {
+                                "address": {
+                                    "addressPurpose": {
+                                        "@code": "1",
+                                        "@codeRef": "LookupAddressPurpose"
+                                    },
+                                    "siteAddressCategory": {
+                                        "@code": "2",
+                                        "@codeRef": "LU_ESR_SiteAddressCategory"
+                                    },
+                                    "addressType": {
+                                        "@code": "2",
+                                        "@codeRef": "LookupAddressType"
+                                    },
+                                    "deliveryModeType": {
+                                        "@code": "1",
+                                        "@codeRef": "LookupDeliveryModeType"
+                                    },
+                                    "mailStopCode": {},
+                                    "internalRoutingInformation": {},
+                                    "streetNumber": {},
+                                    "streetAddress": "215 S PINE ST",
+                                    "secondaryIdentifierType": {
+                                        "@code": "",
+                                        "@codeRef": "LookupSecondaryIdentifierType"
+                                    },
+                                    "secondaryIdentifierRange": {},
+                                    "urbanization": {},
+                                    "ruralRouteType": {
+                                        "@code": "",
+                                        "@codeRef": "LookupRuralRouteType"
+                                    },
+                                    "ruralRouteNumber": {},
+                                    "ruralRouteBoxNumber": {},
+                                    "postOfficeBoxNumber": {},
+                                    "city": "NEWTON",
+                                    "zipCode": "67114",
+                                    "zip4Code": "3765",
+                                    "congressionalDistrict": "04",
+                                    "county": "Harvey",
+                                    "countyFIPSCode": "79",
+                                    "validationStatus": {
+                                        "@code": "2",
+                                        "@codeRef": "LookupValidationStatus"
+                                    },
+                                    "state": "KS",
+                                    "divisionLine": {},
+                                    "internationalAddress": {},
+                                    "province": {},
+                                    "postalCode": {},
+                                    "company": {},
+                                    "computedLongitude": "-97.341244",
+                                    "computedLatitude": "38.041353",
+                                    "GeoCodingLocatorName": "Street Address",
+                                    "nonStandardAddressLine": {}
+                                }
+                            }
+                        },
+                        {
+                            "@id": "72eb97c9-5865-4311-b74e-eb78e7978abb",
+                            "@hrsaAssignedNumber": "71675",
+                            "@bphcAssignedNumber": "BPS-H80-031387",
+                            "siteType": {
+                                "@code": "2",
+                                "@codeRef": "LU_SCP_SiteType"
+                            },
+                            "siteLocation": {
+                                "@code": "2",
+                                "@codeRef": "LU_SCP_SiteLocation"
+                            },
+                            "udsId": {},
+                            "legacyUDSId": {},
+                            "terminatedOnDate": {},
+                            "status": {
+                                "@code": "1",
+                                "@codeRef": "LU_SCP_Status"
+                            },
+                            "hasPendingApprovedChanges": "False",
+                            "isARRASite": "False",
+                            "npiNumber": {},
+                            "medicareBillingNumber": {},
+                            "name": "Health Ministries Clinic--Bethel",
+                            "addresses": [
+                                {
+                                    "address": {
+                                        "addressPurpose": {
+                                            "@code": "1",
+                                            "@codeRef": "LookupAddressPurpose"
+                                        },
+                                        "siteAddressCategory": {
+                                            "@code": "2",
+                                            "@codeRef": "LU_ESR_SiteAddressCategory"
+                                        },
+                                        "addressType": {
+                                            "@code": "2",
+                                            "@codeRef": "LookupAddressType"
+                                        },
+                                        "deliveryModeType": {
+                                            "@code": "1",
+                                            "@codeRef": "LookupDeliveryModeType"
+                                        },
+                                        "mailStopCode": {},
+                                        "internalRoutingInformation": {},
+                                        "streetNumber": {},
+                                        "streetAddress": "300 E 27th St",
+                                        "secondaryIdentifierType": {
+                                            "@code": "",
+                                            "@codeRef": "LookupSecondaryIdentifierType"
+                                        },
+                                        "secondaryIdentifierRange": {},
+                                        "urbanization": {},
+                                        "ruralRouteType": {
+                                            "@code": "",
+                                            "@codeRef": "LookupRuralRouteType"
+                                        },
+                                        "ruralRouteNumber": {},
+                                        "ruralRouteBoxNumber": {},
+                                        "postOfficeBoxNumber": {},
+                                        "city": "North Newton",
+                                        "zipCode": "67117",
+                                        "zip4Code": "8061",
+                                        "congressionalDistrict": "04",
+                                        "county": "Harvey",
+                                        "countyFIPSCode": {},
+                                        "validationStatus": {
+                                            "@code": "2",
+                                            "@codeRef": "LookupValidationStatus"
+                                        },
+                                        "state": "KS",
+                                        "divisionLine": {},
+                                        "internationalAddress": {},
+                                        "province": {},
+                                        "postalCode": {},
+                                        "company": {},
+                                        "computedLongitude": "0",
+                                        "computedLatitude": "0",
+                                        "GeoCodingLocatorName": {},
+                                        "nonStandardAddressLine": "300 E 27th St"
+                                    }
+                                },
+                                {
+                                    "address": {
+                                        "addressPurpose": {
+                                            "@code": "1",
+                                            "@codeRef": "LookupAddressPurpose"
+                                        },
+                                        "siteAddressCategory": {
+                                            "@code": "2",
+                                            "@codeRef": "LU_ESR_SiteAddressCategory"
+                                        },
+                                        "addressType": {
+                                            "@code": "2",
+                                            "@codeRef": "LookupAddressType"
+                                        },
+                                        "deliveryModeType": {
+                                            "@code": "1",
+                                            "@codeRef": "LookupDeliveryModeType"
+                                        },
+                                        "mailStopCode": {},
+                                        "internalRoutingInformation": {},
+                                        "streetNumber": {},
+                                        "streetAddress": "300 E 27th St",
+                                        "secondaryIdentifierType": {
+                                            "@code": "",
+                                            "@codeRef": "LookupSecondaryIdentifierType"
+                                        },
+                                        "secondaryIdentifierRange": {},
+                                        "urbanization": {},
+                                        "ruralRouteType": {
+                                            "@code": "",
+                                            "@codeRef": "LookupRuralRouteType"
+                                        },
+                                        "ruralRouteNumber": {},
+                                        "ruralRouteBoxNumber": {},
+                                        "postOfficeBoxNumber": {},
+                                        "city": "North Newton",
+                                        "zipCode": "67117",
+                                        "zip4Code": "8061",
+                                        "congressionalDistrict": "04",
+                                        "county": "Harvey",
+                                        "countyFIPSCode": {},
+                                        "validationStatus": {
+                                            "@code": "2",
+                                            "@codeRef": "LookupValidationStatus"
+                                        },
+                                        "state": "KS",
+                                        "divisionLine": {},
+                                        "internationalAddress": {},
+                                        "province": {},
+                                        "postalCode": {},
+                                        "company": {},
+                                        "computedLongitude": "0",
+                                        "computedLatitude": "0",
+                                        "GeoCodingLocatorName": {},
+                                        "nonStandardAddressLine": "300 E 27th St"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        }
+    }
