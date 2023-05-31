@@ -1,0 +1,316 @@
+"siteInfo": {
+        "grants": {
+            "grant": {
+                "@id": "dc44081c-5856-4727-9c33-255e4e6f0a29",
+                "sites": {
+                    "site": [
+                        {
+                            "@id": "d5a6ca4b-72b0-49af-90ee-3aed709d2df9",
+                            "@hrsaAssignedNumber": "72243",
+                            "@bphcAssignedNumber": "BPS-H80-032053",
+                            "siteType": {
+                                "@code": "2",
+                                "@codeRef": "LU_SCP_SiteType"
+                            },
+                            "siteLocation": {
+                                "@code": "5",
+                                "@codeRef": "LU_SCP_SiteLocation"
+                            },
+                            "udsId": {},
+                            "legacyUDSId": {},
+                            "terminatedOnDate": {},
+                            "status": {
+                                "@code": "1",
+                                "@codeRef": "LU_SCP_Status"
+                            },
+                            "hasPendingApprovedChanges": "False",
+                            "isARRASite": "False",
+                            "npiNumber": "1396836029",
+                            "medicareBillingNumber": {},
+                            "name": "SHEF Mobile Unit",
+                            "addresses": {
+                                "address": {
+                                    "addressPurpose": {
+                                        "@code": "1",
+                                        "@codeRef": "LookupAddressPurpose"
+                                    },
+                                    "siteAddressCategory": {
+                                        "@code": "2",
+                                        "@codeRef": "LU_ESR_SiteAddressCategory"
+                                    },
+                                    "addressType": {
+                                        "@code": "2",
+                                        "@codeRef": "LookupAddressType"
+                                    },
+                                    "deliveryModeType": {
+                                        "@code": "1",
+                                        "@codeRef": "LookupDeliveryModeType"
+                                    },
+                                    "mailStopCode": {},
+                                    "internalRoutingInformation": {},
+                                    "streetNumber": {},
+                                    "streetAddress": "3030 Enterprise Dr",
+                                    "secondaryIdentifierType": {
+                                        "@code": "",
+                                        "@codeRef": "LookupSecondaryIdentifierType"
+                                    },
+                                    "secondaryIdentifierRange": {},
+                                    "urbanization": {},
+                                    "ruralRouteType": {
+                                        "@code": "",
+                                        "@codeRef": "LookupRuralRouteType"
+                                    },
+                                    "ruralRouteNumber": {},
+                                    "ruralRouteBoxNumber": {},
+                                    "postOfficeBoxNumber": {},
+                                    "city": "Salina",
+                                    "zipCode": "67401",
+                                    "zip4Code": {},
+                                    "congressionalDistrict": "01",
+                                    "county": "Saline",
+                                    "countyFIPSCode": {},
+                                    "validationStatus": {
+                                        "@code": "2",
+                                        "@codeRef": "LookupValidationStatus"
+                                    },
+                                    "state": "KS",
+                                    "divisionLine": {},
+                                    "internationalAddress": {},
+                                    "province": {},
+                                    "postalCode": {},
+                                    "company": {},
+                                    "computedLongitude": "0",
+                                    "computedLatitude": "0",
+                                    "GeoCodingLocatorName": {},
+                                    "nonStandardAddressLine": "3030 Enterprise Dr"
+                                }
+                            }
+                        },
+                        {
+                            "@id": "6c585e97-73f1-4314-a049-760afa317bac",
+                            "@hrsaAssignedNumber": "8980",
+                            "@bphcAssignedNumber": "BPS-H80-002595",
+                            "siteType": {
+                                "@code": "3",
+                                "@codeRef": "LU_SCP_SiteType"
+                            },
+                            "siteLocation": {
+                                "@code": "1",
+                                "@codeRef": "LU_SCP_SiteLocation"
+                            },
+                            "udsId": "0712470",
+                            "legacyUDSId": "0712470",
+                            "terminatedOnDate": {},
+                            "status": {
+                                "@code": "1",
+                                "@codeRef": "LU_SCP_Status"
+                            },
+                            "hasPendingApprovedChanges": "False",
+                            "isARRASite": "True",
+                            "npiNumber": {},
+                            "medicareBillingNumber": "171822",
+                            "name": "SALINA FAMILY HEALTHCARE CENTER",
+                            "addresses": {
+                                "address": {
+                                    "addressPurpose": {
+                                        "@code": "1",
+                                        "@codeRef": "LookupAddressPurpose"
+                                    },
+                                    "siteAddressCategory": {
+                                        "@code": "2",
+                                        "@codeRef": "LU_ESR_SiteAddressCategory"
+                                    },
+                                    "addressType": {
+                                        "@code": "2",
+                                        "@codeRef": "LookupAddressType"
+                                    },
+                                    "deliveryModeType": {
+                                        "@code": "1",
+                                        "@codeRef": "LookupDeliveryModeType"
+                                    },
+                                    "mailStopCode": {},
+                                    "internalRoutingInformation": {},
+                                    "streetNumber": {},
+                                    "streetAddress": "651 E. PRESCOTT",
+                                    "secondaryIdentifierType": {
+                                        "@code": "",
+                                        "@codeRef": "LookupSecondaryIdentifierType"
+                                    },
+                                    "secondaryIdentifierRange": {},
+                                    "urbanization": {},
+                                    "ruralRouteType": {
+                                        "@code": "",
+                                        "@codeRef": "LookupRuralRouteType"
+                                    },
+                                    "ruralRouteNumber": {},
+                                    "ruralRouteBoxNumber": {},
+                                    "postOfficeBoxNumber": {},
+                                    "city": "SALINA",
+                                    "zipCode": "67401",
+                                    "zip4Code": "7408",
+                                    "congressionalDistrict": "01",
+                                    "county": "Saline",
+                                    "countyFIPSCode": "169",
+                                    "validationStatus": {
+                                        "@code": "",
+                                        "@codeRef": "LookupValidationStatus"
+                                    },
+                                    "state": "KS",
+                                    "divisionLine": {},
+                                    "internationalAddress": {},
+                                    "province": {},
+                                    "postalCode": {},
+                                    "company": {},
+                                    "computedLongitude": "-97.601412",
+                                    "computedLatitude": "38.828161",
+                                    "GeoCodingLocatorName": "Place",
+                                    "nonStandardAddressLine": {}
+                                }
+                            }
+                        },
+                        {
+                            "@id": "615d8e2f-ad87-40cb-9f19-aa8910361882",
+                            "@hrsaAssignedNumber": "80780",
+                            "@bphcAssignedNumber": "BPS-H80-034243",
+                            "siteType": {
+                                "@code": "2",
+                                "@codeRef": "LU_SCP_SiteType"
+                            },
+                            "siteLocation": {
+                                "@code": "1",
+                                "@codeRef": "LU_SCP_SiteLocation"
+                            },
+                            "udsId": {},
+                            "legacyUDSId": {},
+                            "terminatedOnDate": {},
+                            "status": {
+                                "@code": "1",
+                                "@codeRef": "LU_SCP_Status"
+                            },
+                            "hasPendingApprovedChanges": "False",
+                            "isARRASite": "False",
+                            "npiNumber": {},
+                            "medicareBillingNumber": {},
+                            "name": "Salina Family Eye Care Center",
+                            "addresses": [
+                                {
+                                    "address": {
+                                        "addressPurpose": {
+                                            "@code": "1",
+                                            "@codeRef": "LookupAddressPurpose"
+                                        },
+                                        "siteAddressCategory": {
+                                            "@code": "2",
+                                            "@codeRef": "LU_ESR_SiteAddressCategory"
+                                        },
+                                        "addressType": {
+                                            "@code": "2",
+                                            "@codeRef": "LookupAddressType"
+                                        },
+                                        "deliveryModeType": {
+                                            "@code": "1",
+                                            "@codeRef": "LookupDeliveryModeType"
+                                        },
+                                        "mailStopCode": {},
+                                        "internalRoutingInformation": {},
+                                        "streetNumber": {},
+                                        "streetAddress": "2676 Planet Ave",
+                                        "secondaryIdentifierType": {
+                                            "@code": "",
+                                            "@codeRef": "LookupSecondaryIdentifierType"
+                                        },
+                                        "secondaryIdentifierRange": {},
+                                        "urbanization": {},
+                                        "ruralRouteType": {
+                                            "@code": "",
+                                            "@codeRef": "LookupRuralRouteType"
+                                        },
+                                        "ruralRouteNumber": {},
+                                        "ruralRouteBoxNumber": {},
+                                        "postOfficeBoxNumber": {},
+                                        "city": "Salina",
+                                        "zipCode": "67401",
+                                        "zip4Code": "7604",
+                                        "congressionalDistrict": "01",
+                                        "county": "Saline",
+                                        "countyFIPSCode": {},
+                                        "validationStatus": {
+                                            "@code": "2",
+                                            "@codeRef": "LookupValidationStatus"
+                                        },
+                                        "state": "KS",
+                                        "divisionLine": {},
+                                        "internationalAddress": {},
+                                        "province": {},
+                                        "postalCode": {},
+                                        "company": {},
+                                        "computedLongitude": "-97.613722",
+                                        "computedLatitude": "38.791296",
+                                        "GeoCodingLocatorName": {},
+                                        "nonStandardAddressLine": "2676 Planet Ave"
+                                    }
+                                },
+                                {
+                                    "address": {
+                                        "addressPurpose": {
+                                            "@code": "1",
+                                            "@codeRef": "LookupAddressPurpose"
+                                        },
+                                        "siteAddressCategory": {
+                                            "@code": "2",
+                                            "@codeRef": "LU_ESR_SiteAddressCategory"
+                                        },
+                                        "addressType": {
+                                            "@code": "2",
+                                            "@codeRef": "LookupAddressType"
+                                        },
+                                        "deliveryModeType": {
+                                            "@code": "1",
+                                            "@codeRef": "LookupDeliveryModeType"
+                                        },
+                                        "mailStopCode": {},
+                                        "internalRoutingInformation": {},
+                                        "streetNumber": {},
+                                        "streetAddress": "2676 Planet Ave",
+                                        "secondaryIdentifierType": {
+                                            "@code": "",
+                                            "@codeRef": "LookupSecondaryIdentifierType"
+                                        },
+                                        "secondaryIdentifierRange": {},
+                                        "urbanization": {},
+                                        "ruralRouteType": {
+                                            "@code": "",
+                                            "@codeRef": "LookupRuralRouteType"
+                                        },
+                                        "ruralRouteNumber": {},
+                                        "ruralRouteBoxNumber": {},
+                                        "postOfficeBoxNumber": {},
+                                        "city": "Salina",
+                                        "zipCode": "67401",
+                                        "zip4Code": "7604",
+                                        "congressionalDistrict": "01",
+                                        "county": "Saline",
+                                        "countyFIPSCode": {},
+                                        "validationStatus": {
+                                            "@code": "2",
+                                            "@codeRef": "LookupValidationStatus"
+                                        },
+                                        "state": "KS",
+                                        "divisionLine": {},
+                                        "internationalAddress": {},
+                                        "province": {},
+                                        "postalCode": {},
+                                        "company": {},
+                                        "computedLongitude": "-97.613722",
+                                        "computedLatitude": "38.791296",
+                                        "GeoCodingLocatorName": {},
+                                        "nonStandardAddressLine": "2676 Planet Ave"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        }
+    }
