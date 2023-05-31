@@ -1,0 +1,150 @@
+"siteInfo": {
+        "grants": {
+            "grant": {
+                "@id": "05f0f28d-d045-44dd-ad30-514000e6cb19",
+                "sites": {
+                    "site": {
+                        "@id": "d804a076-b624-4ae0-9e63-f95be6d69e2f",
+                        "@hrsaAssignedNumber": "12963",
+                        "@bphcAssignedNumber": "BPS-H80-008408",
+                        "siteType": {
+                            "@code": "3",
+                            "@codeRef": "LU_SCP_SiteType"
+                        },
+                        "siteLocation": {
+                            "@code": "1",
+                            "@codeRef": "LU_SCP_SiteLocation"
+                        },
+                        "udsId": {},
+                        "legacyUDSId": {},
+                        "terminatedOnDate": {},
+                        "status": {
+                            "@code": "1",
+                            "@codeRef": "LU_SCP_Status"
+                        },
+                        "hasPendingApprovedChanges": "True",
+                        "isARRASite": "True",
+                        "npiNumber": "1033218565",
+                        "medicareBillingNumber": "171830",
+                        "name": "Center for Health and Wellness, Inc.",
+                        "addresses": [
+                            {
+                                "address": {
+                                    "addressPurpose": {
+                                        "@code": "1",
+                                        "@codeRef": "LookupAddressPurpose"
+                                    },
+                                    "siteAddressCategory": {
+                                        "@code": "2",
+                                        "@codeRef": "LU_ESR_SiteAddressCategory"
+                                    },
+                                    "addressType": {
+                                        "@code": "2",
+                                        "@codeRef": "LookupAddressType"
+                                    },
+                                    "deliveryModeType": {
+                                        "@code": "1",
+                                        "@codeRef": "LookupDeliveryModeType"
+                                    },
+                                    "mailStopCode": {},
+                                    "internalRoutingInformation": {},
+                                    "streetNumber": {},
+                                    "streetAddress": "2707 E. 21st",
+                                    "secondaryIdentifierType": {
+                                        "@code": "",
+                                        "@codeRef": "LookupSecondaryIdentifierType"
+                                    },
+                                    "secondaryIdentifierRange": {},
+                                    "urbanization": {},
+                                    "ruralRouteType": {
+                                        "@code": "",
+                                        "@codeRef": "LookupRuralRouteType"
+                                    },
+                                    "ruralRouteNumber": {},
+                                    "ruralRouteBoxNumber": {},
+                                    "postOfficeBoxNumber": {},
+                                    "city": "Wichita",
+                                    "zipCode": "67214",
+                                    "zip4Code": "2249",
+                                    "congressionalDistrict": "04",
+                                    "county": "Sedgwick",
+                                    "countyFIPSCode": "173",
+                                    "validationStatus": {
+                                        "@code": "1",
+                                        "@codeRef": "LookupValidationStatus"
+                                    },
+                                    "state": "KS",
+                                    "divisionLine": {},
+                                    "internationalAddress": {},
+                                    "province": {},
+                                    "postalCode": {},
+                                    "company": {},
+                                    "computedLongitude": "-97.304312",
+                                    "computedLatitude": "37.72272",
+                                    "GeoCodingLocatorName": "Place",
+                                    "nonStandardAddressLine": {}
+                                }
+                            },
+                            {
+                                "address": {
+                                    "addressPurpose": {
+                                        "@code": "1",
+                                        "@codeRef": "LookupAddressPurpose"
+                                    },
+                                    "siteAddressCategory": {
+                                        "@code": "2",
+                                        "@codeRef": "LU_ESR_SiteAddressCategory"
+                                    },
+                                    "addressType": {
+                                        "@code": "2",
+                                        "@codeRef": "LookupAddressType"
+                                    },
+                                    "deliveryModeType": {
+                                        "@code": "1",
+                                        "@codeRef": "LookupDeliveryModeType"
+                                    },
+                                    "mailStopCode": {},
+                                    "internalRoutingInformation": {},
+                                    "streetNumber": {},
+                                    "streetAddress": "2707 E. 21st",
+                                    "secondaryIdentifierType": {
+                                        "@code": "",
+                                        "@codeRef": "LookupSecondaryIdentifierType"
+                                    },
+                                    "secondaryIdentifierRange": {},
+                                    "urbanization": {},
+                                    "ruralRouteType": {
+                                        "@code": "",
+                                        "@codeRef": "LookupRuralRouteType"
+                                    },
+                                    "ruralRouteNumber": {},
+                                    "ruralRouteBoxNumber": {},
+                                    "postOfficeBoxNumber": {},
+                                    "city": "Wichita",
+                                    "zipCode": "67214",
+                                    "zip4Code": "2249",
+                                    "congressionalDistrict": "04",
+                                    "county": "Sedgwick",
+                                    "countyFIPSCode": "173",
+                                    "validationStatus": {
+                                        "@code": "1",
+                                        "@codeRef": "LookupValidationStatus"
+                                    },
+                                    "state": "KS",
+                                    "divisionLine": {},
+                                    "internationalAddress": {},
+                                    "province": {},
+                                    "postalCode": {},
+                                    "company": {},
+                                    "computedLongitude": "-97.304312",
+                                    "computedLatitude": "37.72272",
+                                    "GeoCodingLocatorName": "Place",
+                                    "nonStandardAddressLine": {}
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
